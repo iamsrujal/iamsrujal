@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://iamsrujal.com](https://iamsrujal.com)
 
-- 📝 I regularly write articles on [https://dev.to/iamsrujal](https://dev.to/iamsrujal)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/iamsrujal/](https://www.linkedin.com/in/iamsrujal/)
 
 - 💬 Ask me about **JavaScript, Angular And Nodejs**
 
