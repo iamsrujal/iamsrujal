@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Srujal Patel</h1>
 <h3 align="center">
- Firsthand experience in analysis, development, and implementation in JavaScript, Object-Oriented concepts. Enthusiastic collaborator, an adaptive person with creative problem solving, and good communication skills. Keen interest in technology, mobile applications, web application and user experiences. Continually evaluating and upgrading my skills so that I stay at the forefront of web development. Natural analytical person, who has proven by completing projects for IT consultancies, software houses, web design agencies, and IT departments. </h3>
+Firsthand experience in analysis, development, and implementation in JavaScript, Object-Oriented concepts. Enthusiastic collaborator, an adaptive person with creative problem solving, and good communication skills. Keen interest in technology, mobile applications, web application and user experiences. Continually evaluating and upgrading my skills so that I stay at the forefront of web development. Natural analytical person, who has proven by completing projects for IT consultancies, software houses, web design agencies, and IT departments. </h3>
 <p>Currently, I am looking for a suitable position with a company where outstanding performance is recognised and where I can work on a variety of projects.</p>
-<p><small>I am available and actively looking for summer placement or internship.</small></p>
+<p><small>I am actively looking for graduate full stack web developer role.</small></p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsrujal" alt="iamsrujal" /></a> </p>
