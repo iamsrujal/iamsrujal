@@ -21,7 +21,7 @@ Firsthand experience in analysis, development, and implementation in JavaScript,
 
 - 📫 How to reach me **contact@iamsrujal.com**
 
-- 📄 Know about my experiences [https://iamsrujal.com/cv](https://iamsrujal.com/cv)
+- 📄 Know about my experiences [https://iamsrujal.com/cv](https://drive.google.com/uc?export=download&id=13WU9stS_wJr6aBEQkAwRpt51CEQNjGIu)
 
 - ⚡ Fun fact **Life is fun.**
 
