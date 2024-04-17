@@ -6,7 +6,7 @@ A passionate and dedicated web developer and computer programmer deeply engrosse
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsrujal" alt="iamsrujal" /></a> </p>
 
-- 🔭 I’m currently working on [justurl](https://justurl.in)
+- 🔭 I’m currently working on **multiple projects**
 
 - 🌱 I’m currently learning **React and Python**
 
