@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srujal Patel</h1>
 <h3 align="center">
-Firsthand experience in analysis, development, and implementation in JavaScript, Object-Oriented concepts. Enthusiastic collaborator, an adaptive person with creative problem solving, and good communication skills. Keen interest in technology, mobile applications, web application and user experiences. Continually evaluating and upgrading my skills so that I stay at the forefront of web development. Natural analytical person, who has proven by completing projects for IT consultancies, software houses, web design agencies, and IT departments. </h3>
-<p>Currently, I am looking for a suitable position with a company where outstanding performance is recognised and where I can work on a variety of projects.</p>
-<p><small>I am actively looking for graduate full stack web developer role.</small></p>
+A passionate and dedicated web developer and computer programmer deeply engrossed in the world of programming languages, data structures, and algorithms. I thrive on challenges and take pride in being part of the solution, constantly seeking opportunities to expand my skill set and embrace new technologies. 💻✨ </h3>
+<p><small>I'm seeking a dynamic role as a Full-stack Web Developer, craving an environment that recognizes exceptional performance and offers a diverse array of projects to dive into. 🎓🌐 Let's embark on a journey to craft extraordinary solutions! 🚀🛠️</small></p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsrujal" alt="iamsrujal" /></a> </p>
